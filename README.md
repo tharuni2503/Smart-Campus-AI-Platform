@@ -135,9 +135,6 @@ Example:
 ![AI Assistant](assets/screenshots/ai_assistant.png)
 ```
 
-> **Tip:** Use only **4 to 6 important screenshots** for a cleaner and more professional GitHub presentation.
-
----
 
 ## Installation and Setup
 
