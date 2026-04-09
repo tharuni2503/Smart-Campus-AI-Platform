@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567141038159",
+    "project_id": "smartcampusai-9fc31",
+    "storage_bucket": "smartcampusai-9fc31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567141038159:android:1c222dc2a8789848fe923a",
+        "android_client_info": {
+          "package_name": "com.example.smart_campus_ai_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567141038159-i1v80p63o7lqm93cr80rtlec141ne9o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVUL8Ef_G13ekDM3X7bbgz8hClA5Qu9l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567141038159-i1v80p63o7lqm93cr80rtlec141ne9o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
