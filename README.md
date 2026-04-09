@@ -126,13 +126,13 @@ Example:
 ## Screenshots
 
 ### Login Screen
-![Login](assets/screenshots/login.png)
+![Login](assets/screenshot/login.png)
 
 ### Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshot/dashboard.png)
 
 ### AI Study Assistant
-![AI Assistant](assets/screenshots/ai_assistant.png)
+![AI Assistant](assets/screenshot/AI.png)
 ```
 
 
